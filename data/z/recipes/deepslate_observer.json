@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "RRQ",
+        "###"
+    ],
+    "key": {
+        "#":{
+            "item": "cobbled_deepslate"
+        },
+        "R":{
+            "item": "redstone"
+        },
+        "Q":{
+            "item": "quartz"
+        }
+    },
+    "result": {
+        "item": "minecraft:dropper"
+    }
+}

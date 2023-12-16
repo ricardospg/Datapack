@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "#R#"
+    ],
+    "key": {
+        "#":{
+            "item": "cobbled_deepslate"
+        },
+        "B":{
+            "item": "minecraft:bow"
+        },
+        "R":{
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:dispenser"
+    }
+}
